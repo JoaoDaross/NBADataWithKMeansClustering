@@ -1,5 +1,5 @@
 # NBA Data With KMeans Clustering
 
-- Aprendendo a usar o metodo Kmeans
+- Usando o metodo Kmeans para separar os jogadores em grupos. 
 
-- Prevendo a pontuação dos jogadores de acordo com o histórico. ( Regressão Linear)
+- Prevendo a pontuação dos jogadores com Regressão Linear.
